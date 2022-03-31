@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to brunomedeirosq slide!"
 ---
-This is github bruno slide.
+This is my awesome slide slide.
 Use the left arrow to go back!
